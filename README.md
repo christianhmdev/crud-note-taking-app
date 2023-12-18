@@ -32,7 +32,7 @@ Web App for creating, reading, updating, and deleting notes. This app allows use
 Copy and paste the following command in your terminal to clone this repository:
 
 ```
-git clone https://github.com/christianhmdev/note-taking-javascript-.git
+git clone https://github.com/christianhmdev/note-taking-javascript.git
 ```
 
 ## Functionalities
