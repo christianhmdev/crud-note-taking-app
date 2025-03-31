@@ -14,7 +14,6 @@
 - [Configuration](#configuration)
 - [Functionalities](#functionalities)
 - [Screenshots](#screenshots)
-- [Developer Information](#developer-information)
 
 ## Description
 
@@ -47,11 +46,3 @@ git clone https://github.com/christianhmdev/note-taking-javascript.git
 ![Weather](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702904322/note-taking-dark.png)
 
 ![Weather](https://res.cloudinary.com/ddmcwbdtl/image/upload/v1702904353/note-taking-light.png)
-
-## Developer Information
-
-Connect with me through the following links:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/christianhuamandev/)
-- [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:christianhuamandev@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/christianhmdev/)
